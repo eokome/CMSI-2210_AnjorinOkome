@@ -6,4 +6,5 @@ int main( int argc, char * argv[] ) {
     printf( "What is your name? ");
     fgets(name, sizeof(name), stdin);
     printf( "Hello, %s!", name );
+    return 0;
 }
