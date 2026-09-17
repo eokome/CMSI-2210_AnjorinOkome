@@ -1,0 +1,99 @@
+Answers to the following questions can be found in the information on the course weekly pages for weeks one and two, or you can look them up on the Internet. If you do look up the answers, please include a link to the site from which you obtained each answer.
+
+However, try to answer in your own words from your head knowledge because that will help you to really remember the answers rather than just regurgitating them for a grade.
+
+1. What is a computer system?
+A complete, functional combo of hardware, software, and human users working together to input, process, store, and output data.
+
+link: https://www.google.com/search?q=what+is+a+compiter+system&oq=what+is+a+compiter+system&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQABgNGIAEMgwIAhAAGA0YgAQYtAcyDAgDEAAYDRiABBi0BzIMCAQQABgNGIAEGLQHMgwIBRAAGA0YgAQYtAcyDAgGEAAYDRiABBi0BzIMCAcQABgNGIAEGLQHMgwICBAAGA0YgAQYtAcyDAgJEAAYDRiABBi0B9IBCDQ5MjNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+2. What are some of the parts of a computer system?
+CPU
+Motherboard
+RAM
+Storage
+Graphics unit
+Input devices (keyboard, mouse)
+Output devices (screen, speakers)
+
+3. What is the difference between a compiled language and an intepreted language?
+Interpreted languages have an interpreter reading and processing the source code on the spot while running, it trasnlates and executes it line by line. A compiled language uses a compiler translates the entire source code into machine code before execution and creates an executable file.
+
+link: https://www.google.com/search?q=What+is+the+difference+between+a+compiled+language+and+an+intepreted+language%3F&oq=What+is+the+difference+between+a+compiled+language+and+an+intepreted+language%3F&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgNGB4yCggCEAAYCBgNGB7SAQc2NjZqMGo5qAIGsAIB8QXNlWYcSMQpiA&sourceid=chrome&ie=UTF-8
+
+4. Is C a compiled language?
+yes 
+
+5. Who invented the C language?
+Dennis Ritchie
+
+link: https://www.google.com/search?q=who+invented+the+c+language&oq=who+invented+the+c+lan&gs_lcrp=EgZjaHJvbWUqBwgAEAAYgAQyBwgAEAAYgAQyBggBEEUYOTIICAIQABgWGB4yCAgDEAAYFhgeMggIBBAAGBYYHjIICAUQABgWGB4yCAgGEAAYFhgeMggIBxAAGBYYHjIICAgQABgWGB4yCAgJEAAYFhge0gEINjgzMGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+6. How long has C been in use?
+It has been in use for 54 years
+
+link: https://www.google.com/search?q=how+long+has+c+been+in+use&oq=how+long+has+c+been+in+use&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yCAgCEAAYFhgeMggIAxAAGBYYHjIICAQQABgWGB4yDQgFEAAYhgMYgAQYigUyDQgGEAAYhgMYgAQYigUyDQgHEAAYhgMYgAQYigUyBwgIEAAY7wUyBwgJEAAY7wXSAQg0NzU2ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+7. Is a compiler a translator?
+Yes 
+
+8. Is an assembler a translator?
+Yes it i a type of translator
+
+9. What is the command to list out the contents of a directory on a mac terminal window?
+ls
+
+10. What does the C function atof() do?
+It takes characters someone typed on their keyboard and converts it to a real number that a program can do math with
+
+11. What are the bottom two layers of a computer system? Give a brief desciption of each.
+Hardware layer (layer 0:): lowest physical layer of a computer which has all the physical & electronic components (CPU, storage, memory chips, input/output devices)
+
+firware/operating system layer (layer 1): the loest level of control software that bridges the physical parts and higher software  (the program that runs when you press the on button to ensure the screen, keyboard, and neniry are plugged in, the small code in a computer that translates uour physical mouse movements to something the computer understands)
+
+link: https://www.google.com/search?q=What+are+the+bottom+two+layers+of+a+computer+system%3F+Give+a+brief+desciption+of+each.&oq=What+are+the+bottom+two+layers+of+a+computer+system%3F+Give+a+brief+desciption+of+each.&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzcyM2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+12. What are the three steps of the Von Neumann Architecture?
+Fetch: the CPU gets the next instruction form the computer's memory using a location tracker (program counter)
+
+Decode: The control unit breaks down and reads the instruction to figure out what command or action needs to be done
+
+Execute: The Srithmetic logic unit (ALU) or another part of the CPU perfomrs the actual operation such as moving data or math calculations
+
+link: https://www.google.com/search?q=What+are+the+three+steps+of+the+Von+Neumann+Architecture%3F&oq=What+are+the+three+steps+of+the+Von+Neumann+Architecture%3F&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yCAgCEAAYFhgeMg0IAxAAGIYDGIAEGIoFMg0IBBAAGIYDGIAEGIoFMgcIBRAAGO8FMgcIBhAAGO8FMgcIBxAAGO8FMgcICBAAGO8F0gEHNzE0ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
+
+13. What is the purpose of an ALU?
+To perform all math and logical operations in a computer's CPU
+
+link: https://www.google.com/search?q=What+is+the+purpose+of+an+ALU%3F&oq=What+is+the+purpose+of+an+ALU%3F&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yCAgCEAAYFhgeMggIAxAAGBYYHjIICAQQABgWGB4yCAgFEAAYFhgeMggIBhAAGBYYHjIICAcQABgWGB4yCAgIEAAYFhgeMggICRAAGBYYHtIBBzMxNGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+14. What is a register?
+A small but extremely fast storage location built in a CPU that holds data the processor is actively using
+
+link: https://www.google.com/search?q=what+is+registers+in+computer&sca_esv=3be82e3b01d3e45b&sxsrf=APpeQnuHMRl7q8B424qmOg1fWPJvFqoVaQ%3A1789619460752&ei=BG2rasC0LZ6zqtsP6bOQkQI&biw=960&bih=1085&oq=What+is+a+register%3F&gs_lp=Egxnd3Mtd2l6LXNlcnAiE1doYXQgaXMgYSByZWdpc3Rlcj8qCggAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsANIlApQAFgAcAF4AZABAJgBAKABAKoBALgBAcgBAJgCAaACApgDAIgGAZAGCJIHATGgBwCyBwC4BwDCBwMwLjHIBwKACAE&sclient=gws-wiz-serp
+
+15. What is one difference between Application software and System software?
+An application software is like a word processor/ web browser that helps users complete everday tasks while a system software (like an OS) controls hardware and coordinates operations
+
+link: https://www.google.com/search?q=What+is+one+difference+between+Application+software+and+System+software%3F&oq=What+is+one+difference+between+Application+software+and+System+software%3F&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yCAgCEAAYFhgeMggIAxAAGBYYHjIICAQQABgWGB4yCAgFEAAYFhgeMggIBhAAGBYYHjIICAcQABgWGB4yCAgIEAAYFhgeMggICRAAGBYYHtIBBzY0N2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+16. Is the phrase cmp rdi, rsi machine language?
+no it is assembly language
+
+link: https://www.google.com/search?q=Is+the+phrase+cmp+rdi%2C+rsi+machine+language%3F&oq=Is+the+phrase+cmp+rdi%2C+rsi+machine+language%3F&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRigATIHCAUQIRigATIHCAYQIRiPAjIHCAcQIRiPAtIBBzUwNGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+17. How many buses are included in the system bus?
+3. data bus (transfers actual data between the CPU, memory, and input/output devices), address bus (carries the physical memory/ devices address locations from the CPU), and control bus (transmits command, timing, and status signals to coordinate all computer operations)
+
+link: https://www.google.com/search?q=How+many+buses+are+included+in+the+system+bus%3F&oq=How+many+buses+are+included+in+the+system+bus%3F&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRigATIHCAUQIRirAjIHCAYQIRiPAjIHCAcQIRiPAtIBBzY0OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
+
+18. What is the decimal value of 100101112?
+151
+
+19. What is the decimal value of 111111112?
+255
+
+20. What is the largest unsigned integer value that will fit into 16 bits?
+65,535
+
+link: https://www.google.com/search?q=What+is+the+largest+unsigned+integer+value+that+will+fit+into+16+bits%3F&oq=What+is+the+largest+unsigned+integer+value+that+will+fit+into+16+bits%3F&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRiPAjIHCAIQIRiPAtIBBzQyNWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
