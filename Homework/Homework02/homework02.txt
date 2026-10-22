@@ -87,10 +87,10 @@ link: https://www.google.com/search?q=Is+the+phrase+cmp+rdi%2C+rsi+machine+langu
 
 link: https://www.google.com/search?q=How+many+buses+are+included+in+the+system+bus%3F&oq=How+many+buses+are+included+in+the+system+bus%3F&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIHCAMQIRigATIHCAQQIRigATIHCAUQIRirAjIHCAYQIRiPAjIHCAcQIRiPAtIBBzY0OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8
 
-18. What is the decimal value of 100101112?
+18. What is the decimal value of 10010111?
 151
 
-19. What is the decimal value of 111111112?
+19. What is the decimal value of 11111111?
 255
 
 20. What is the largest unsigned integer value that will fit into 16 bits?
