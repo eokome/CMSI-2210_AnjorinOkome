@@ -1,0 +1,11 @@
+        C0000004   JMP     start   ; begin by jumping over the data area
+count:  00000000                   ; current value to output
+one:    00000001                   ; the number 1
+limit:  00000100                   ; 256, one past the last value we want
+start:  LOAD    [count]            ; load the current value into acc
+        WRITE   8                  ; output it to port 0x8
+        ADD     [one]              ; acc = value + 1
+        STORE   count              ; save the next value for next time
+        SUB     [limit]            ; compare with 256
+        JLZ     start              ; if result is negative (value < 256), go again
+end:    JMP     end                ; this "stops" the program
