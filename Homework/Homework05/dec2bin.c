@@ -5,7 +5,7 @@ int main(int argc, char *argv[])
 {
     unsigned int number;
     int i;
-    
+
     if (argc != 2)
     {
         printf("Usage: %s number\n", argv[0]);
@@ -18,11 +18,17 @@ int main(int argc, char *argv[])
     {
 
         if ((number >> i) & 1)
-            printf ("1")
-        else 
+           // you had this. notice missing semicolon:
+           //   printf ("1")  <--
+           // should be this:
+            printf ("1");
+        else
             printf("0");
     }
-    printf("\n")
+   // you had this. notice missing semicolon:
+   //   printf ("\n")  <--
+   // should be this:
+    printf("\n");
 
     return 0;
     }
